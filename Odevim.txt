@@ -1,0 +1,185 @@
+Week-3-Homework-1: 
+Answers: 
+1) Bir bilgisayar, dış dünya ile bağlantı kurduğunda programların dışarıdan gelen itekleri kabul edebilmeleri için bir çok soyut bağlantı noktası tanımlanır ve her birine, bunları tanıyabilmek için pozitif bir sayı verilir. Genelde 65.536 adedi TCP, 65.536 adedi de UDP tipine olmak üzere, toplamda 131.072 adet port tanımlanır.
+
+2) Well-known portların kullanılması, istemci uygulamalarının diğer ana bilgisayarlarda karşılık gelen sunucu uygulama işlemlerini kolayca bulmasını sağlar.
+
+4)Nginx açık kaynaklı bir web sunucu yazılımıdır. Email vekil sunucu, ters vekil sunucu ve yük dengeleyici olarak da çalışmaktadır.
+
+5) DevOps, Geliştirme(Dev) ve İşlemlerin(Ops) bir bileşeni olan DevOps müşterilere sürekli değer sunmak için bir araya gelen kişiler, süreçler ve teknolojiler bütünüdür. DevOps kültürünü, yöntemlerini ve araçlarını benimseyen ekipler performanslarını artırarak, daha fazla müşteri memnuniyeti için daha iyi ürünleri daha hızlı bir şekilde üretmeye başlıyor. İşbirliğilinin ve üretkenliğin bu şekilde artması, şunun gibi iş hedeflerinin gerçekleştirilmesinde kritik rol oynuyor. DevOps, planlama, geliştirme, teslim ve çalıştırma aşamaları boyunca uygulama yaşa döngüsü üzerinde etki sahibidir. Her bir aşama diğeriyle bağlantılıdır ve aşamalar role özel değildir.
+
+- Plan : Planlama aşamasında DevOps ekipleri oluşturdukları uygulamaların ve sistemlerin özelliklerini tasarlar, tanımlar ve açıklar. 
+- Geliştirme: Geliştirme aşaması, kodun ekip üyeleri tarafından test edilmesi, gözden geçirilmesi ve tümleştirilmesi de dahil kodlamanın tüm yönlerini ve bu kodun çeşitli ortamlarda dağıtılabilen derleme yapıtlarının oluşturulmasını içerir.
+- Teslim: Teslim, uygulamaları üretim ortamında tutarlı ve güvenilir bir şekilde dağıtma sürecidir.
+- Çalıştırma: Çalıştırma aşaması, üretim ortamlarında uygulamalın bakımını yapma, uygulamaları izleme ve uygulama sorunlarını giderme süreçlerini içerir.
+
+Week-3-Homework-2: 
+Answers:
+
+1- SonarQube, Java, C# JavaScript, TypeScript, C/C++, COBOL ve daha fazlası dahil olmak üzere 25+ programlama dilinde hataların, kodlardan gelen kötü durumların ve güvenlik açıklıklarının tespit edilmesi için statik kod analiziyle otomatik incelemeler yapan açık kaynak platformudur.
+
+2- Kubernetes Google tarafından GO dilinde geliştirilmiş Cloud Native Computing Foundation tarafından 
+desteklenen mevcut konteyner haline getirilmiş uygulamlarınızı otomatik deploy etmek, sayılarını arttırıp 
+azaltmak gibi işlemler ile birlikte yönetmenizi sağlayan bir Konteyner kümeleme(Container Cluster) aracıdır.
+
+3- Orchestration, container’lar ile çalışırken (docker veya Kubernetes gibi) onların bir arada çalışma, birbirleriyle ilişkileri, gruplama durumlarını monitör etme gibi işlemlerin tamamına verilen isimdir.
+
+4- NPM, kendisiyle birlikte gelen Node Package Manager - Node Paket Yöneticisidir ve bütün Node geliştirmelerine yardımcı olur. Node yıllardır JavaScript geliştiricileri tarafından araç paylaşmak, çeşitli modüller yüklemek ve bağımlılıklarını yönetmek için yaygın biçimde kullanılmıştır.
+
+5- Agile yazılım geliştirme metotlarından biridir. Agite metodolojisi, yazılım projelerindeki giderleri azaltmayı hedefler. Agile metodolojisinde çalışan ve kullanışlı bir yazılım projesi oluşturmak ön plana çıkmaktadır.
+Scrum, Agile proje yönetimi metotlarından biridir. Karmaşık yazılım projelerinin başarı oranını yükseltmek için oluşturulmuştur. Scrum, projeyi küçük parçalara ayırarak yönetmeyi önerir. Bu sayede her parça tek tek incelenip gerekli değişiklikler yapılabilir. Bir parçada olan sorun daha kolay bulunabilir.
+
+Week-3-Homework-3:
+Answers:
+1- Ansible yönetiminizde olan sunucuların tek bir çatı altında istediğin her şeyi yapmaya olanak sağlayan, client istemcilere herhangi bir agent kurmaya ihtiyacı gerektirmeyen, Python ve Ruby dilleri ile geliştirilmiş özgür bir platformdur. 
+
+2- XML(Extensible Markup Language, Genişletilebilir İşaretleme Dili) hem insanlar hem bilgi işlem sistemleri tarafından kolayca okunabilecek dokümanlar oluşturmaya yarayan bir işaretleme dilidir. W3C tarafından tanımlanmış bir standarttır.
+
+3- JSON (JavaScript Object Notation), basit veri yapılarını temsil etmek için tasarlanmış bağımsız bir veri değişim formatıdır. Esas olarak iki sistem arasındaki veri alışverişi için kullanılır. Örneğin JSON kullanılarak sunucu ile web uygulaması arasında veri aktarabilirsiniz. 
+JSON, nesnelerin interneti (IoT) ve sosyal medya uygulamaları gibi alanlarda sıklıkla kullanılmaktadır. 
+Web uygulamalarında kullanıcıların değiştirdikleri ayarları her seferinde yenilemelerine gerek kalmaması için, kullanıcı deneyimi açısından birçok geçici yapılandırmanın veya verinin depolanması gerekir.
+
+4- YAML dil bağımsız bir veri değişim formatıdır. Herhangi bir programlama dili ile oluşturulan nesneler, YAML formatında kolaylıkla temsil edilebilmektedirler. YAML geniş veri desteği sayesinde tüm diller arasında ortak olarak kullanılabilir olmakla birlikte, ayrıca insan gözüyle bakıldığında kolay okunabilir bir yapısı mevcuttur. YAML ile kompleks nesne yapıları temsil edilebileceği gibi, konfigürasyon amaçlı kullanılan formatlara alternatif olarak da kullanılabilmektedir.
+
+5- Sunucunun tarayıcıya verdiği üç haneli cevaplar HTTP durum kodları ya da HTTP status codes olarak adlandırılır. 
+1xx :Tarayıcı tarafından gönderilen isteğin sunucuya ulaştığını ve işlemin başladığını bildiren bilgilendirme kodlarını ifade eden durum kodlarıdır.
+2xx: Tarayıcı tarafından gönderilen isteğin sunucuya ulaştığını, anlaşıldığını ve başarılı olduğunu ifade eden durum kodlarıdır.
+3xx: Erişilmek istenen kaynağın başka bir kaynağa taşındığını ve bir yönlendirmenin söz konusu olduğunu ifade eden durum kodlarıdır.
+4xx: İsteğin yerine getirilemediğini, ilgili web sayfasına ya da web sitesine ulaşılmadığını ifade eden durum kodlarıdır.
+5xx: Tarayıcı tarafından gönderilen isteğin başarıyla sunucuya ulaştığını fakat sunucu tarafındaki sorunlar nedeniyle isteğin yerine getirilemediğini ifade eden durum kodlarıdır.
+
+
+Week-3-Homework-4:
+Answers:
+1- URI (Uniform Resource Identifier), internet üzerinde bir kaynağın tam yerini işaret eden (resim veya belge) standart formata uygun bir karakter dizisidir.Kısaca bir URL’nin altında bulunan kaynağın tam yoluna işaret eder.
+URL (Uniform Resource Locator), gayet basit tanımlı olan URL, internet üzerinde kaynağın yerine işaret eden standart bir formata uygun karakter dizisidir. Örneğin www.google.com bir URL’dir.
+
+2- 
+DNS (Domain Name System): DNS, isimlerin IP’ye dönüştürülesi maksadıyla kullanılan ve 256 karaktere kadar büyüyebilen bir sistemdir.
+Domain: Web site adresi olarak bildiğimiz, örneğin google.com hurriyet.com.tr gibi adreslerin hepsi bir alan adıdır. Hangi websitesine girmek isterseniz girin, tarayıcınıza bir adres yazmalısınız. İşte bu adres, ulaşmak istediğin web sitesinin domain’i yani alan adıdır.
+Hosting: bir hizmet türüdür. Söz konusu hizmet website olduğunda, domain’inize bağlanan kişiler aslında hosting’e yönlenir. Yani siz www.google.com adresine girdiğinizde, bu domain sizi Google’ın hosting bilgisayarlarına yönlendirir.
+
+3- GNU, çekirdek, açıcılar ve kullanıcıların ihtiyaç duyabileceği son yazılımları içeren GNU tasarısı kapsamında geliştirilen bir işletim sistemidir. 
+
+4- Git, sürüm/versiyon kontrol sistemidir. Yazdığımız projeleri, bilgisayarımızda ya da harici disklerde binbir tehlike altında değilde internet üzerinde tutmamızı ve yönetmemizi sağlayan bir sistemdir.
+
+5- 
+CLI (Command Line Interface): kullanıcı komut satırı kullanılarak kabuk ile etkileşime girilebilmektedir.
+GUI(Graphical User Interface): grafik arayüzü kullanılarak kabuk ile etkileşime girilebilmektedir.
+CLI hızlı, GUI yavaş.
+CLI bellek tüketimi düşük, GUI bellek tüketimi yüksek
+CLI tuş takımı yeterli olur, GUI fare ve klavye yeterlidir.
+
+Week-3-Homework-5:
+Answers:
+1- Kernel: Kernel bilgisayar içerisinde kontrol merkezi olarak bilinmektedir.
+Yazılımların tamamı bu çekirdek tarafından kontrol edilmektedir. Hafıza, kaynak ve cihaz yönetimi kernel tarafından yapılmaktadır. Bilgisayar içerisindeki tüm durumları kontrol eden mekanizma olarak bilinmektedir.
+Shell (Kabuk): Kabuk, arayüzler ve çalışır uygulamalar dışında (öncesinde ve paralelinde) komutların işletildiği ana ve hatta çoğu zaman zorunlu bir paneldir. Bu yazılım komut satırı kullanılarak çalışır.
+
+2- Portainer, Docker’la komut isteminden yaptığınız bir çok işlemi görsel bir yönetim panelinden yapmanızı sağlayan bir araç.
+
+3- CORS (Cross-Origin Resource Sharing), bir web sayfası üzerindeki bazı kaynakların (örneğin font dosyaları), kaybapın sunulduğu alan adının dışındaki bir alan adından istenebilmesine izin veren bir mekanizmadır.
+
+4-
+Application Server: Sadece belli bir uygulamanın veya yazılımın çalıştırılması için kullanılan sunuculardır.
+Bu uygulamalar son kullanıcının erişerek işlem yaptığı uygulamalar olabileceği gibi son kullanıcıya kaplı, sadece diğer sunucuların farklı bilgilere erişmek için kullandığı sunucular da olabilir.
+
+Tomcat: Apache Tomcat veya Tomcat Java tabanlı web uygulamalarını yayınlamak için kullanılan web sunucusudur.
+
+Wildfly: WildFly Java ile yazılmış ve Java Platform, Enterprise Edition belirtimini uygulayarak birden fazla platformda çalışır.  Uygulama Sunucuları container(Tomcat) sunuculara nazaran daha fazla jar bulundurur. Daha geniş özelliklere sahiptirler.
+
+Nginx: Nginx özellikle yüksek trafikli ve yoğun istek girişi olan web siteleri için biçilmiş kaftandır. Apache ve Lighttpd ile karşılaştırıldığında çok daha az cpu kullanır.
+
+Temel Özellikleri ;
+
+Reverse Proxy (Ters Vekil Sunucusu),
+Load Balancing (Yük Dengeleme),
+Virtual Host (Sanal Sunucu),
+Statik ve index dosyalarının sunumu, otomatik indeksleme.
+
+5- 
+CVCS: CVS, Merkezi sürüm kontrol sistemi, Subversion ve Perforce gibi sistemler Merkezi kontrol sistemleri için örnek olarak gösterilebilir. Sunucular Sürüm kontrolüne alınan bütün dosyaları tutar. Dosyalar bu sunuculardan istemciler vasıtasıyla çekilerek alınırlar. (Checkout işlemi)
+
+DVCS: Dağıtık sürüm kontrol sistemlerinde istemciler dosyaların yalnızca en son bellek kopyalarını almak kalmaz, yazılım havuzunu (repository) bütünüyle kopyalarlar. Git, Mercurial, Bazaar ve Darcs gibi örnekleri dağıtık sistemlere örnek olarak ele alabiliriz. Dağıtık sistemlerde üzerinde ortak çalışma yürütülen sunuculardan biri çökerse istemcilerden birinin yazılım havuzu sunucuya geri yüklenerek sistem kurtarılabilmektedir. Her checkout işlemi esnasında bütün verinin yedeklenmesiyle sonuçlanır.
+
+Week-3-Homework-6:
+Answers:
+1-
+- Commit mesajı mümkün oldukça ne yapıldığını anlatan en kısa cümle ile yazılmalı
+- Commit mesajlarına emir kipi ile başlanmalı
+- Commit mesajı büyük harf ile başlanılmalı
+- Emir kipi ile yazdığımız commit başlık mesajının nokta ile bitmeli
+
+2-
+FIFO: ifadesinin İngilizce açılımı First İn First Out’tur. Bu ifadenin Türkçesi ‘İlk Giren İlk Çıkar’ anlamına gelmektedir.
+LIFO: Son giren ilk çıkar (LIFO) yöntemi adından da anlaşılacağı üzere envantere son giren ürünlerin ilk olarak elden çıkarıldıkları yöntemdir.
+
+3- 
+Merge komutu iki branch arasındaki değişiklikleri entegre etmenin en kolay yolu olmakla birlikte tek yol değildir. Rebase komutu da iki branch'ı entegre etmek için kullanılan merge komutuna alternatif bir komuttur.
+
+Rebase: rebase komutu kullandığımızda ise ile A dalındaki her bir commit B dalına sanki commit işlemi B dalında yapılmış gibi yeniden yazılır. Bu sayede B dalının commit tarihçesi sanki tüm değişiklikler bu dalda olmuş gibi düz ve kesintisiz görünür.
+
+4-
+SourceTree, Atlassian'ın çıkarmış olduğu, Git projelerinin yönetimini kolaylaştıran oldukça kullanışlı bir masaüstü uygulamasıdır. Bitbucket başta olmak üzere, Github ve Stash gibi diğer sistemlerdeki Git repository'lerinizi yönetmenizi oldukça kolaylaştıran bir uygulamadır.
+
+5-
+Interpreter(Yorumlayıcı): yüksek seviyeli programlama dili ile yazılmış bir programı adım adım makine diline çeviren ve makine dilindeki talimatları çalıştıran programdır. 
+
+Compiler(Derleyici): Compiler (Derleyici), geliştiricilerin herhangi bir programlama dilini kullanarak yazdığı kaynak kodu bilgisayarın anlayabileceği makine diline yani 0 ve 1’lere çeviren aracı yazılımdır.
+
+
+7-
+Java EE içerisinde yer alan Servlet sunucu (server) – istemci (client) tabanlı uygulamaların haberleşmesini yönetmek için kullanılan sınıf, arayüz ve paket topluluğudur.
+
+
+Week-3-Homework-7:
+Answers:
+
+1- 
+Git Stage:  Bir dosyayı stage’lemek, aslında o dosyayı bir sonraki “commit”‘e hazırlamak demektir. 
+Git Unstage: bir dosyayı commitlemeden önceki adımdır. Commitlenmeyecek ve herhangi bir değişiklik yapılmadığı anlamına gelmektedir. Git add komutu çalıştırılmadan ki dosyaların halidir.
+
+3- mkdir git_code
+4-touch data.txt
+5-git init
+6- git branch linux (branch oluşturmak için git init yapıldıktan sonra en az bir kere commit işleminin yapılması gerekiyor. Git commit -m “Mesaj”)
+-git branch git
+7-
+Git checkout linux
+Cat >> data.txt
+ls
+reboot
+cd
+mkdir
+touch
+- git add .
+- git commit -m “First Real Commit”
+8-
+- git checkout git
+- cat >> git.txt
+- git add .
+- git commit -m “Second Real Commit”
+
+10-
+git log --oneline --decorate
+
+12-
+git diff linux..git
+
+14- 
+-git status
+-git log
+
+17- git merge --no-ff linux
+
+18-
+Git branch list
+git branch -d linux
+
+19- 
+İki kişi aynı dosyayı ve aynı satırı değiştirirse ve git otomatik olarak merge edemezse bu durumda conflict yani çakışma olacaktır. Bu durumda çakışma yaşayan kişi gerekirse ekipteki diğer kişi ile beraber oturup çakışmayı çözdükten sonra merge işlemine devam etmelidir.
+
+20-
+Merge komutu iki branch arasındaki değişiklikleri entegre etmenin en kolay yolu olmakla birlikte tek yol değildir. Rebase komutu da iki branch'ı entegre etmek için kullanılan merge komutuna alternatif bir komuttur.
+
+Rebase: rebase komutu kullandığımızda ise ile A dalındaki her bir commit B dalına sanki commit işlemi B dalında yapılmış gibi yeniden yazılır. Bu sayede B dalının commit tarihçesi sanki tüm değişiklikler bu dalda olmuş gibi düz ve kesintisiz görünür.
